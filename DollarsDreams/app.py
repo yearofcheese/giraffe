@@ -39,7 +39,7 @@ with col1:
 
 # Add the image in the second column
 with col2:
-	st.image("images/dollars_dreams_giraffe.png", caption="Long Neck Larry, the High Return Hunter", width=150)
+	st.image("DollarsDreams/images/dollars_dreams_giraffe.png", caption="Long Neck Larry, the High Return Hunter", width=150)
 
 st.markdown("---")
 
